@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" package="com.DefaultCompany.YourGame">
+  <!-- 클립보드 읽기/쓰기 권한 추가 -->
+  <uses-permission android:name="android.permission.READ_CLIPBOARD" />
+  <uses-permission android:name="android.permission.WRITE_CLIPBOARD" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <application>
+    <activity android:name="com.unity3d.player.appui.AppUIGameActivity" android:theme="@style/BaseUnityGameActivityTheme" android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout" android:launchMode="singleTask" android:exported="true">
+     
+      <!-- 클립보드 사용을 위한 설정 -->
+      <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="true" />
+      <meta-data android:name="android.app.lib_name" android:value="game" />
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.VIBRATE" />
+</manifest>

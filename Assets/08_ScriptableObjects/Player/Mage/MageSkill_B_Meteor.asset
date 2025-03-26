@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c93cc379f4303418b48b7281b9bf72, type: 3}
+  m_Name: MageSkill_B_Meteor
+  m_EditorClassIdentifier: 
+  skillSlot: 2
+  coolTime: 15
+  damage: 550
+  aggro: 15
+  isBackattackEnable: 0
+  backAttackTimes: 3
+  maxRange: 15
+  attackAreaRadius: 4
+  duration: 0.4
+  damageTickTime: 0.5

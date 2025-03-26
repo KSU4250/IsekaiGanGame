@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "725690212529",
+    "firebase_url": "https://isekaigangame-2a26d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "isekaigangame-2a26d",
+    "storage_bucket": "isekaigangame-2a26d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725690212529:android:25626bfde564cdb3058290",
+        "android_client_info": {
+          "package_name": "com.Quarter_Project.IsekaiGanGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbW_NVzc26wEV-6_QeJIXkhU8S1YfPqro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

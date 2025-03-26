@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19589e22a55695f4b97b58549086c3aa, type: 3}
+  m_Name: WarriorSkill_C_Tackle
+  m_EditorClassIdentifier: 
+  skillSlot: 3
+  coolTime: 10
+  damage: 100
+  aggro: 10
+  isBackattackEnable: 0
+  backAttackTimes: 3
+  moveSpeed: 50
+  moveTime: 0.1
+  isForward: 1

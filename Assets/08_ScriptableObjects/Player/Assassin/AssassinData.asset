@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f2d3149454034142b2ef6cef854d4a9, type: 3}
+  m_Name: AssassinData
+  m_EditorClassIdentifier: 
+  characterClass: 3
+  maxHp: 100
+  walkSpeed: 6
+  skills:
+  - {fileID: 11400000, guid: b20b29e2de3b2e34ab7f5f9300a8cebe, type: 2}
+  - {fileID: 11400000, guid: 4dd7d1dabb92d5f4c988adcdbe6c0e3e, type: 2}
+  - {fileID: 11400000, guid: a96d2823e2d1bda4b817504ade42fd43, type: 2}
+  - {fileID: 11400000, guid: 5edc500516c782c47b9418ae5fb075d8, type: 2}
+  - {fileID: 11400000, guid: 237b578559875ea448b642043e81bdd1, type: 2}
+  - {fileID: 11400000, guid: e3c458d34f071d8428c2e7abc59f3c3a, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/01_Scenes/LJH/LobbyTest.unity
+    guid: 84a04911339349546a003347b493a183
+  - enabled: 0
+    path: Assets/01_Scenes/LJH/GameTest.unity
+    guid: a95c70bc12355374e97e68e55443ff5a
+  - enabled: 0
+    path: Assets/01_Scenes/KSUTest/Login.unity
+    guid: 224b127dc5b0b834aa2147ff1eb0f956
+  - enabled: 0
+    path: Assets/01_Scenes/KSUTest/GolemSceneTest/Login.unity
+    guid: a875e19e6032d6643bfc4b3be3c5af2a
+  - enabled: 1
+    path: Assets/01_Scenes/KSUTest/GolemSceneTest/LobbyTest.unity
+    guid: 8667fe1849187dd4dbe396a896edd0eb
+  - enabled: 1
+    path: Assets/01_Scenes/KSUTest/GolemSceneTest/GolemSceneTest.unity
+    guid: ff1f9fe5b6608204f80c0ec9bd26afd5
+  - enabled: 0
+    path: Assets/01_Scenes/KSUTest/MushRoomSceneTest/LobbyTest.unity
+    guid: 4227d2f5ff83afb488c7d96d99d3f6e6
+  - enabled: 1
+    path: Assets/01_Scenes/KSUTest/MushRoomSceneTest/MushRoomSceneTest.unity
+    guid: e7d394634c7210b4ab15e61102b519e4
+  - enabled: 0
+    path: Assets/01_Scenes/S_Player.unity
+    guid: 7c2905f759c96fd48861b281a7102762
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 40376e516beeb48489d5290566859c8d, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 99f9c9493070a9d4c979a8fec7c5a8d3, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

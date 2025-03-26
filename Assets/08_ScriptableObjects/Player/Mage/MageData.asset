@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f2d3149454034142b2ef6cef854d4a9, type: 3}
+  m_Name: MageData
+  m_EditorClassIdentifier: 
+  characterClass: 1
+  maxHp: 80
+  walkSpeed: 4
+  skills:
+  - {fileID: 11400000, guid: 3465e183684068441b444b3eebc5f998, type: 2}
+  - {fileID: 11400000, guid: 6f1fdd6104b661a48bf7623b0dc2d563, type: 2}
+  - {fileID: 11400000, guid: 62d3e345251e1a543833fcf91f2e8ce1, type: 2}
+  - {fileID: 11400000, guid: 875106c1527b572429ee5e642cb47c65, type: 2}
+  - {fileID: 11400000, guid: e3c458d34f071d8428c2e7abc59f3c3a, type: 2}

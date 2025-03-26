@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bae3b6be280b39746a23ce9c6a6fbc68, type: 3}
+  m_Name: ArcherSkill_B_BackJump
+  m_EditorClassIdentifier: 
+  skillSlot: 2
+  coolTime: 7
+  damage: 20
+  aggro: 5
+  isBackattackEnable: 1
+  backAttackTimes: 3
+  attackRange: 6
+  moveSpeed: 14
+  moveTime: 0.4
+  isForward: 0

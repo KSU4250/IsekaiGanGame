@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Lobby_PlayerState
+  m_EditorClassIdentifier: 
+  m_GroupName: Lobby_PlayerState
+  m_GUID: 92cc548a5b33e514d84a7bae2f1105de
+  m_SerializeEntries:
+  - m_GUID: 175911bcd08f90a478fe52b08bc24bda
+    m_Address: Assets/05_UI/Images/Lobby_Player/Host.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LobbyPlayerIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c52aeb6a9fa3ac3458ace7476ca0a771
+    m_Address: Assets/05_UI/Images/Lobby_Player/Ready.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LobbyPlayerIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f139e8debbb577b4bbaa3d2fbdcfc40d
+    m_Address: Assets/05_UI/Images/Lobby_Player/Not_Ready.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LobbyPlayerIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 801ab1fca7f87404ea24af4a805ca132, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 241eb9e473ccca142a046830a89d7a90, type: 2}
+    - {fileID: 11400000, guid: 5b272d6756e43fc4eaf217e34f43d4da, type: 2}

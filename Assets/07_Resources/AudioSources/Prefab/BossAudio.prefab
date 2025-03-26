@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &262694212571630114
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6066121464059644286}
+  - component: {fileID: 6674039441048555817}
+  m_Layer: 10
+  m_Name: BossAudio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6066121464059644286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 262694212571630114}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6674039441048555817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 262694212571630114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d51244a0166f87c49891c32c58b3d78b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Attack1: {fileID: 8300000, guid: baebff1d5cb699742a8aa3b6da7cb788, type: 3}
+  Attack2: {fileID: 8300000, guid: ead4ee367e814524ea1961aa6999f501, type: 3}
+  Attack3: {fileID: 8300000, guid: ea6222b1bdacecc4f8d916fa14f6b917, type: 3}
+  Attack4: {fileID: 8300000, guid: f6b256ad08e1091418d2d940e1fe6f21, type: 3}
+  Attack5: {fileID: 8300000, guid: b90a1f40ad9c337458ef0c4127171ba4, type: 3}
+  Attack6: {fileID: 8300000, guid: 894ad9f6ab8560c4f89864742910da23, type: 3}
+  Attack7: {fileID: 8300000, guid: ea6222b1bdacecc4f8d916fa14f6b917, type: 3}
+  Attack8: {fileID: 8300000, guid: 52e37bb3e933ec54eb745f04f779435c, type: 3}
+  Attack9: {fileID: 8300000, guid: ea6222b1bdacecc4f8d916fa14f6b917, type: 3}
+  SpecialAttack: {fileID: 8300000, guid: ad7fc9b9b21ac9940b60ee323bee2ade, type: 3}
+  Phase2: {fileID: 8300000, guid: f5c9b338ced8a98408f3906b4c128f72, type: 3}
+  audioMixer: {fileID: 24100000, guid: 9e53cb4805ef9d047abfdbb78664776a, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f2d3149454034142b2ef6cef854d4a9, type: 3}
+  m_Name: WarriorData
+  m_EditorClassIdentifier: 
+  maxHp: 120
+  walkSpeed: 5
+  skills:
+  - {fileID: 11400000, guid: ac1ce17dff93c654f81b7584e893063b, type: 2}
+  - {fileID: 11400000, guid: 9dba0b179316bbb40ab7f4ffb8bbe57c, type: 2}
+  - {fileID: 11400000, guid: 16ed6d2752589674691b60d17a00d77b, type: 2}
+  - {fileID: 11400000, guid: 0a940aa8b9f8c074893e5f56af9bf514, type: 2}
+  - {fileID: 11400000, guid: 7675b4069a9197349b261eae358343bd, type: 2}
+  - {fileID: 11400000, guid: e3c458d34f071d8428c2e7abc59f3c3a, type: 2}
