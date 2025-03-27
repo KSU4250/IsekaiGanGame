@@ -1,7 +1,8 @@
 # IsekaiGanGame
 >  보스 레이드 게임
-
 ---
+![image](https://github.com/user-attachments/assets/c24d8fdc-1365-4b90-86d9-8b16011fa009)
+
 ## 게임 소개
 
 - *게임 장르*  : 보스 레이드
