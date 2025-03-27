@@ -19,4 +19,3 @@ https://youtu.be/Dae2qr6R8ss
 ## 기타 자료
 - *게임 기획* : [![PDF 다운로드](https://img.shields.io/badge/PDF-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-blue?style=for-the-badge&logo=cloud-download)](https://github.com/user-attachments/files/19486153/default.pdf)
 - *기술 소개서* : 
-- *회의록* :
