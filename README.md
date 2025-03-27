@@ -1,7 +1,7 @@
 # IsekaiGanGame
 >  보스 레이드 게임
 ---
-![image](https://github.com/user-attachments/assets/c24d8fdc-1365-4b90-86d9-8b16011fa009)
+![Image](https://github.com/user-attachments/assets/8958d890-9216-4d75-8069-f7c4653acf3a)
 
 ## 게임 소개
 
