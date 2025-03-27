@@ -17,6 +17,6 @@ https://youtu.be/Dae2qr6R8ss
 
 
 ## 기타 자료
-- *게임 기획* :
-- *기술 소개서* :
+- *게임 기획* : [![PDF 보기](https://img.shields.io/badge/PDF-%EB%B3%B4%EA%B8%B0-black?style=for-the-badge&logo=github)](https://github.com/user-attachments/files/19486040/default.pdf)
+- *기술 소개서* : 
 - *회의록* :
